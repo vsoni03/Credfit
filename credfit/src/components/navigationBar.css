@@ -1,20 +1,21 @@
-  .nagivationBar{
-    text-align: center;
+
+  
+  
+  .navbar{
+    position: absolute;
+    width: 100%;
+    height: 61px;
+    background: #004977;
   }
+  
+    /* .nagivationBar{
+    text-align: center;
+  } */
   
   /* .nagivationBar-logo {
     height: 40vmin;
     pointer-events: none;
   } */
-  
-  
-  
-  .nagivationBar-header {
-    position: absolute;
-    width: 685px;
-    height: 61px;
-    background: #004977;
-  }
   
   /* .nagivationBar-link {
     color: #61dafb;
