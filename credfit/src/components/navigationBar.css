@@ -1,32 +1,18 @@
 
-  
-  
   .navbar{
     position: absolute;
     width: 100%;
-    height: 61px;
+    height: 120px;
     background: #004977;
   }
-  
-    /* .nagivationBar{
-    text-align: center;
-  } */
-  
-  /* .nagivationBar-logo {
-    height: 40vmin;
-    pointer-events: none;
-  } */
-  
-  /* .nagivationBar-link {
-    color: #61dafb;
+
+  .navlogo{
+    float: left;
+    padding-top: 5px;
+    width: 250px;
+    height: 120px;
   }
-   */
-  /* @keyframes App-logo-spin {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  } */
-  
+  .caplogo{
+    float: left;
+    height: 100px;
+  }
