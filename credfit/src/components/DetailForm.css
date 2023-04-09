@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,600;1,700&display=swap");
+
+h1 {
+  font-family: "Montserrat", "Arial";
+  font-weight: 400;
+}
+
+.detail-form {
+  margin-top: 10%;
+  color: black;
+  font-size: 100%;
+}
+
+.detail-form-h1 {
+  color: #004977;
+}
+
+.detail-form-h1 span {
+  font-weight: 500;
+  font-style: italic;
+  color: #d03027;
+}
+
+.inputs {
+  margin-top: 10%;
+  font-size: 30px;
+}
+
+input {
+  margin-right: 10px;
+  height: 30px;
+  border-radius: 50px;
+  font-size: 30px;
+  font-family: "Montserrat", "Arial";
+}
